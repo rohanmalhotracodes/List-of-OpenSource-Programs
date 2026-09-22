@@ -23,6 +23,9 @@
     - name: contrib.rocks
       url: https://contrib.rocks/
       description: Find issues by tech stack and difficulty
+    - name: HelpMeHack
+      url: https://www.helpmehack.tech/
+      description: Surfaces active repositories and screens current issues for assignment, linked-PR and maintainer-activity signals
 
 - section: Learning Git and open source
   slug: learning-git
